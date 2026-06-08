@@ -1,3 +1,5 @@
 streamlit
 ollama
 pandas
+plyer
+streamlit-autorefresh
